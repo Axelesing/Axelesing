@@ -32,4 +32,4 @@ Middle+/Senior Frontend Developer (React/TypeScript), 6+ лет коммерче
 ## 📫 Контакты
 - Telegram: https://t.me/axelesin
 - Email: pas1996@mail.ru
-- HH/LinkedIn: <link>
+- HH: <[link](https://taganrog.hh.ru/resume/5197ff92ff0f4457400039ed1f75567a55416e)>
