@@ -24,10 +24,10 @@ Senior Frontend Developer (React/TypeScript), 6+ лет коммерческой
 </p>
 
 ## 🧩 Дополнительно
-- State: Effector, Redux Toolkit
-- API: REST, GraphQL, WebSocket
-- Tests: Jest, RTL, Playwright
-- Архитектура: FSD
+- State: ![Effector](https://img.shields.io/badge/Effector-State%20Manager-1f1f1f), ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)
+- API: ![REST](https://img.shields.io/badge/REST-API-005571), ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white), ![WebSocket](https://img.shields.io/badge/WebSocket-Real--time-005571)
+- Tests: ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white), ![RTL](https://img.shields.io/badge/Testing%20Library-React-CC6699), ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+- Архитектура: ![FSD](https://img.shields.io/badge/Architecture-FSD-4B32C3)
 
 ## 📫 Контакты
 - Telegram: https://t.me/axelesin
