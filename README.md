@@ -30,6 +30,7 @@ Middle+/Senior Frontend Developer (React/TypeScript), 6+ лет коммерче
 - Архитектура: ![FSD](https://img.shields.io/badge/Architecture-FSD-4B32C3)
 
 ## 📫 Контакты
+- Site: https://axelesing.github.io/
 - Telegram: https://t.me/axelesin
 - Email: pas1996@mail.ru
 - HH: [Resume](https://taganrog.hh.ru/resume/5197ff92ff0f4457400039ed1f75567a55416e)
